@@ -8,3 +8,7 @@ Machine Learning on FPGAs
 [MicroZed Chronicles: The Ultra96 and Machine Learning](https://blog.hackster.io/microzed-chronicles-the-ultra96-and-machine-learning-3b8684a82059)
 
 [Ultra96 Skin Cancer AI](https://www.hackster.io/blue-scan/ultra96-skin-cancer-ai-06d4d4)
+
+[Binary Neural Network Demonstration on Ultra96](https://www.hackster.io/karl-nl/binary-neural-network-demonstration-on-ultra96-6b48e0)
+
+[Zynq UltraScale＋ MPSoC Accelerated Image Classification via Binary Neural Network TechTip](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841949/Zynq+UltraScale+MPSoC+Accelerated+Image+Classification+via+Binary+Neural+Network+TechTip)
